@@ -1,0 +1,13 @@
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/Vaccination.deps.json
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/Vaccination.runtimeconfig.json
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/Vaccination.runtimeconfig.dev.json
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/Vaccination.dll
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/Vaccination.pdb
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.csproj.AssemblyReference.cache
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.AssemblyInfoInputs.cache
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.AssemblyInfo.cs
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.csproj.CoreCompileInputs.cache
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.dll
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.pdb
+/Users/Tabriz/Desktop/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/Vaccination.genruntimeconfig.cache

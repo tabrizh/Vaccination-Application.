@@ -1,0 +1,13 @@
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.csproj.AssemblyReference.cache
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.AssemblyInfoInputs.cache
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.AssemblyInfo.cs
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.csproj.CoreCompileInputs.cache
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/lesson20_homework_vaccination.deps.json
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/lesson20_homework_vaccination.runtimeconfig.json
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/lesson20_homework_vaccination.runtimeconfig.dev.json
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/lesson20_homework_vaccination.dll
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/bin/Debug/netcoreapp3.1/lesson20_homework_vaccination.pdb
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.dll
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.pdb
+/Users/Tabriz/Desktop/Code/Lesson 20 26.08.2021/lesson20_homework_vaccination/lesson20_homework_vaccination/obj/Debug/netcoreapp3.1/lesson20_homework_vaccination.genruntimeconfig.cache
